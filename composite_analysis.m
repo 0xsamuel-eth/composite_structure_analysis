@@ -2,7 +2,6 @@
 %Sam Masten
 
 
-%% Problem 1
 
 %Given Values
 E1 = 145e9; %Pa
